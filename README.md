@@ -54,7 +54,30 @@ Expert in the **Double Diamond** methodology and **Design Thinking**, with a han
 ### 🎓 Education & Languages
 * **Strategic Management (GED)** | *POLIMI, Milan* | Jan 2020
 * **High School Diploma** | *Liceo Stefanini, Venice*
+* **Languages:** 🇮🇹 Italian (Native) | 🇬🇧 English (C1) | 🇪🇸 Spanish (B1)
 
-**Languages:** 🇮🇹 Italian (Native) | 🇬🇧 English (C1) | 🇪🇸 Spanish (B1)
+### 🛠️ Strategic Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=HubSpot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=Zendesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=Shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+</p>
+
+---
+
+### 📈 Current Focus
+- **Agentic AI:** Implementing AI-driven workflows to automate front-line customer interactions.
+- **Data-Driven Operations:** Leveraging SQL and Looker to refine customer health scores.
+- **International Scaling:** Hardening the operational playbooks for the 2025 expansion phase.
+
+<p align="center">
+  <i>"Building scalable systems that turn customer friction into product features."</i>
+</p>
+
+
 
 ---
