@@ -4,7 +4,7 @@
   <p>📍 Milan, Italy | 📞 +39 333 1686862 | 📧 fdalio91@gmail.com</p>
 
   <a href="https://www.linkedin.com/in/francescodalio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/FdLyp/assets"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://github.com/FdLyp/assets/blob/main/cv_26_fdl.pdf"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </div>
 
 ---
