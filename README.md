@@ -58,6 +58,3 @@ Expert in the **Double Diamond** methodology and **Design Thinking**, with a han
 **Languages:** 🇮🇹 Italian (Native) | 🇬🇧 English (C1) | 🇪🇸 Spanish (B1)
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FdLyp&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
